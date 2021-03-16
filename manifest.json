@@ -1,0 +1,38 @@
+{
+  "name": "Smart Tech Mukesh : Blog",
+  "short_name": "Smart Tech Mukesh : Blog",
+  "start_url": "https://smarttechmukesh.online",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#1976d2",
+  "description": "On this website of Smart Tech Mukesh, you will get information about Education, Business, Blogging, Youtube and html css js. From here you can easily.",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-LZ1wfQ8uzTc/X_7j7OAum5I/AAAAAAAABvE/iGb66VisWXs8O2loS7ZGmagqTvzABVR_ACPcBGAYYCw/s48/mlogo.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-LZ1wfQ8uzTc/X_7j7OAum5I/AAAAAAAABvE/iGb66VisWXs8O2loS7ZGmagqTvzABVR_ACPcBGAYYCw/s72/mlogo.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-LZ1wfQ8uzTc/X_7j7OAum5I/AAAAAAAABvE/iGb66VisWXs8O2loS7ZGmagqTvzABVR_ACPcBGAYYCw/s96/mlogo.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-LZ1wfQ8uzTc/X_7j7OAum5I/AAAAAAAABvE/iGb66VisWXs8O2loS7ZGmagqTvzABVR_ACPcBGAYYCw/s144/mlogo.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-LZ1wfQ8uzTc/X_7j7OAum5I/AAAAAAAABvE/iGb66VisWXs8O2loS7ZGmagqTvzABVR_ACPcBGAYYCw/s168/mlogo.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-LZ1wfQ8uzTc/X_7j7OAum5I/AAAAAAAABvE/iGb66VisWXs8O2loS7ZGmagqTvzABVR_ACPcBGAYYCw/s192/mlogo.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-LZ1wfQ8uzTc/X_7j7OAum5I/AAAAAAAABvE/iGb66VisWXs8O2loS7ZGmagqTvzABVR_ACPcBGAYYCw/s512/mlogo.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
