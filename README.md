@@ -1,2 +1,0 @@
-# scripts
-Smart Tech Mukesh 
