@@ -1,7 +1,7 @@
 {
-  "name": "Smart Tech Mukesh : Blog",
-  "short_name": "Smart Tech Mukesh : Blog",
-  "start_url": "https://smarttechmukesh.online",
+  "name": "Smart Tech Mukesh",
+  "short_name": "Smart Tech Mukesh",
+  "start_url": "https://www.smarttechmukesh.com",
   "display": "standalone",
   "background_color": "#fff",
   "theme_color": "#1976d2",
